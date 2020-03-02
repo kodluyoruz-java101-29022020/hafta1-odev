@@ -33,6 +33,7 @@ Girilen şifre ile değişkende tuttuğunuz değeri kıyaslayın. Eğer, iki de�
 
 **Soru4:** Aşağıdaki görüntüyü konsol ekranına yazdıran algoritmayı tasarlayınız.
 
+<img width="195" alt="Screen Shot 2020-03-03 at 00 37 53" src="https://user-images.githubusercontent.com/2838457/75720412-806c3f80-5ce7-11ea-8b8b-d740b6363564.png">
 
 **Soru5:** Rastgele sayılardan oluşan 100 elemanlık tamsayı dizisi oluşturun. Ardından tek ve çift sayıları bulan bir program yazın.
 
